@@ -15,6 +15,7 @@ public class JavaApplication4 {
     
    
    public static void main(String[] args) throws IOException {
+          System.out.println("Hola");
        int numeroEntradas;
        numeroEntradas=inicializacionEntradas();
        menu(numeroEntradas);
